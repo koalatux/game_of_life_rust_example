@@ -1,0 +1,6 @@
+[package]
+name = "game_of_life_rust_example"
+version = "0.1.0"
+authors = ["Adrian Friedli <adi@koalatux.ch>"]
+
+[dependencies]
